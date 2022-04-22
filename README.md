@@ -1,7 +1,7 @@
 ### Hi there I'm Kgotso Matuludi👋
 
-### You can call me Kgotso or KG!
-
+    You can call me Kgotso or KG!
+  
 ## I'm a Daughter, Sister, Friend, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
