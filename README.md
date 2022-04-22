@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Learn more about algorithms
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [linkedIn]: https://www.linkedin.com/in/kgotso-matuludi-540665185/
-- ⚡ Fun fact: I love to sing and cook
+- ⚡ Fun fact: I love to sing, church and cooking
 - 😄 Pronouns: ... Her/She
 
 
@@ -32,14 +32,3 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <br />
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kmatulud&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[linkedin]: https://www.linkedin.com/in/kgotso-matuludi-540665185/
